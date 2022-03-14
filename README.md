@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/11471/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)]
+![MasterHead](https://miro.medium.com/max/11471/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 
 <h1 align="center">Hi 👋, I'm ASIM</h1>
 <h3 align="center">A lazy passionate Android Developer</h3>
